@@ -1,5 +1,5 @@
 # Project Management AI Agent
-by Jeongmin Sohn and Heejoon Yi
+Created by Jeongmin Sohn and Heejoon Yi
 
 ## Overview
 **Project Management AI Agent** is a web application that acts as a virtual project manager for small development teams. It helps teams organize tasks, track progress, monitor pull requests, and manage deadlines automatically.
